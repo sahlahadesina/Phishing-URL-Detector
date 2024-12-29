@@ -12,4 +12,4 @@ These high-performance results indicate that the model is not only highly accura
 
 Overall, the integration of this system into existing email and web infrastructure has the potential to bolster cybersecurity measures and deliver a seamless user experience while safeguarding digital interactions.
 
-This repository contains the source code along with the PhiUSIIL dataset.
+This repository contains the source code.
